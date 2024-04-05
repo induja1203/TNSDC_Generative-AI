@@ -7,6 +7,8 @@ Contents:
 Dataset:
 
 The dataset used for training and testing the RNN model should be provided. Ensure the dataset is preprocessed and formatted appropriately for input to the RNN.
+
+
 /content/cancer.csv
 
 
